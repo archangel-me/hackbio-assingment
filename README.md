@@ -1,4 +1,4 @@
-#hackbio-assingment
+#hackbio-assignment
 name = "Ayodele isijola"
 #line 1 states my name 
 email= "ayodeleisijola28@gmail.com"
